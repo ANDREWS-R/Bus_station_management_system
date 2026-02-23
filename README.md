@@ -140,7 +140,6 @@ Bus appears in:
 
 
 
-```
 ## Login Page
 ![Login](screenshots/login.png)
 
@@ -149,7 +148,7 @@ Bus appears in:
 
 ## User Panel
 ![User](screenshots/user_panel.png)
-```
+
 
 ---
 
