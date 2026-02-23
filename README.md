@@ -138,7 +138,7 @@ Bus appears in:
 
 ## Screenshots
 
-(Add images inside the `screenshots` folder and reference them like this)
+
 
 ```
 ## Login Page
@@ -153,7 +153,7 @@ Bus appears in:
 
 ---
 
-## Optional: Video Demonstration
+## Video Demonstration
 
 https://youtu.be/4OzKn4qNpNE
 
